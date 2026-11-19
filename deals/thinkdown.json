@@ -1,0 +1,14 @@
+{
+  "name": "Thinkdown",
+  "url": "https://thinkdown.app",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS",
+    "watchOS"
+  ],
+  "category": "writing",
+  "discount": "33% off Pro Yearly $39.99",
+  "description": "AI voice journal and voice notes for iPhone, Mac and web.",
+  "ends": "2026-12-15"
+}

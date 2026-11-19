@@ -1,0 +1,12 @@
+{
+  "name": "Liftonic",
+  "url": "https://liftonic.app",
+  "platforms": [
+    "iOS",
+    "watchOS"
+  ],
+  "category": "health",
+  "discount": "33% off Yearly $39.99",
+  "description": "AI lifting coach and workout tracker for iPhone and Apple Watch.",
+  "ends": "2026-12-15"
+}
